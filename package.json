@@ -11,5 +11,11 @@
     "url": "Postgresql"
   },
   "author": "Gabriel Ferreira",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
